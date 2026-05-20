@@ -162,6 +162,152 @@ Allow users to filter data using:
 <details>
 <summary>🇫🇷 Version en français</summary>
 
+# 📈 Tableau de Bord des Ventes
+
+## 🎯 Objectif du Tableau de Bord
+
+Le tableau de bord des ventes a pour objectif de présenter une vue d’ensemble des indicateurs de performance des ventes et des tendances afin d’analyser la performance des ventes d’une année sur l’autre et de comprendre les tendances de vente.
+
+---
+
+## 📌 Exigences Principales
+
+### 📊 Vue d’ensemble des KPI
+
+Afficher un résumé de :
+
+- 💰 Ventes Totales
+- 📈 Bénéfices Totaux
+- 📦 Quantité Totale
+
+Pour :
+
+- 🗓️ Année en cours
+- 🕰️ Année précédente
+
+---
+
+### 📉 Tendances des Ventes
+
+- Présenter les données mensuelles pour chaque KPI pour :
+  - 🟢 Année en cours
+  - 🔵 Année précédente
+
+---
+
+### 🏷️ Comparaison des Sous-catégories de Produits
+
+- Comparer les performances des ventes selon les différentes sous-catégories de produits pour :
+  - 🟢 Année en cours
+  - 🔵 Année précédente
+
+- Inclure la comparaison entre :
+  - 💰 Ventes
+  - 📈 Bénéfices
+
+---
+
+### 📅 Tendances Hebdomadaires des Ventes et des Bénéfices
+
+- Présenter les données hebdomadaires des ventes et des bénéfices pour l’année en cours.
+
+- Afficher :
+  - 📊 Moyenne hebdomadaire des ventes
+  - 📊 Moyenne hebdomadaire des bénéfices
+
+---
+
+# 👥 Tableau de Bord Client
+
+## 🎯 Objectif du Tableau de Bord
+
+Le tableau de bord client vise à fournir une vue d’ensemble des données clients, des tendances et des comportements.
+
+Il aide les équipes marketing et la direction à :
+
+- 🧠 Comprendre les segments de clients
+- 😊 Améliorer la satisfaction client
+- 🔁 Analyser l’engagement et la fidélité des clients
+
+---
+
+## 📌 Exigences Principales
+
+### 📊 Vue d’ensemble des KPI
+
+Afficher un résumé de :
+
+- 👤 Nombre total de clients
+- 💰 Ventes par client
+- 🧾 Nombre total de commandes
+
+Pour :
+
+- 🟢 Année en cours
+- 🔵 Année précédente
+
+---
+
+### 📉 Tendances Clients
+
+- Présenter les données mensuelles pour chaque KPI pour :
+  - 🟢 Année en cours
+  - 🔵 Année précédente
+
+---
+
+### 📦 Distribution des Clients par Nombre de Commandes
+
+Représenter la distribution des clients selon le nombre de commandes passées afin d’obtenir des informations sur :
+
+- 🧠 Comportement des clients
+- ❤️ Fidélité des clients
+- 🔁 Engagement des clients
+
+---
+
+### 🏆 Top 10 des Clients par Bénéfices
+
+Présenter les 10 clients ayant généré le plus de bénéfices.
+
+Inclure des informations supplémentaires telles que :
+
+- 🥇 Classement du client
+- 📦 Nombre de commandes
+- 💰 Ventes actuelles
+- 📈 Bénéfices actuels
+- 📅 Date de la dernière commande
+
+---
+
+# ⚙️ Exigences de Design et d’Interactivité
+
+## 🔄 Fonctionnalités Dynamiques du Tableau de Bord
+
+Les tableaux de bord doivent :
+
+- 📆 Permettre aux utilisateurs de consulter les données historiques en sélectionnant une année.
+- 🔀 Faciliter la navigation entre les tableaux de bord.
+- 📊 Inclure des graphiques interactifs.
+- 🖱️ Permettre le filtrage directement via les graphiques.
+
+---
+
+## 🔎 Filtres de Données
+
+Permettre aux utilisateurs de filtrer les données selon :
+
+### 🏷️ Informations Produit
+
+- Catégorie
+- Sous-catégorie
+
+### 📍 Informations de Localisation
+
+- Région
+- État / Province
+- Ville
+
 </details>
 
 ---
