@@ -6,7 +6,7 @@
 ![Sales Dashboard](images/Sales_Dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/Customer_dashboard.png)
+![Customer Dashboard](images/Customer_Dashboard.png)
 
 
 ## 🌐 Language / Langue  
