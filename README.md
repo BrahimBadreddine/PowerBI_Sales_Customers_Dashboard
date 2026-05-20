@@ -1,5 +1,14 @@
 # 📊 Sales & Customer Dashboard Requirements
 
+## 🖼️ Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](images/sales-dashboard.png)
+
+### Customer Dashboard
+![Customer Dashboard](images/customer-dashboard.png)
+
+
 🌐 Language / Langue  
 - English  
 - Français  
