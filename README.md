@@ -1,4 +1,4 @@
-# Sales & Customer Dashboard Requirements
+# 📊 Sales & Customer Dashboard Requirements
 
 🌐 Language / Langue  
 - English  
@@ -8,9 +8,6 @@
 
 <details>
 <summary>🇬🇧 English Version</summary>
-# 📊 Sales & Customer Dashboard Requirements
-
----
 
 # 📈 Sales Dashboard
 
