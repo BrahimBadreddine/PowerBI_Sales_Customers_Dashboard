@@ -3,7 +3,7 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/Sales_Dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.svg)
 
 ### Customer Dashboard
 ![Customer Dashboard](images/Customer_Dashboard.png)
