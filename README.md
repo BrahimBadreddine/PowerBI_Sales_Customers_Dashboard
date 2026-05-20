@@ -5,9 +5,12 @@
 ### Sales Dashboard
 ![Sales Dashboard](images/Sales_Dashboard.png)
 
+![Sales Dashboard](images/Sales_2021_Filter.png)
+
 ### Customer Dashboard
 ![Customer Dashboard](images/Customer_Dashboard.png)
 
+![Sales Dashboard](images/Customer_2022_Filter.png)
 
 ## 🌐 Language / Langue  
 - English  
