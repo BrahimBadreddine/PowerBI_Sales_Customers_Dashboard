@@ -3,10 +3,10 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](images/sales_dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](images/customer-dashboard.png)
+![Customer Dashboard](images/Customer_dashboard.png)
 
 
 ## 🌐 Language / Langue  
