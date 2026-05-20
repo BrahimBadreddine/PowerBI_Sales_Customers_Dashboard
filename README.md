@@ -9,7 +9,7 @@
 ![Customer Dashboard](images/customer-dashboard.png)
 
 
-🌐 Language / Langue  
+## 🌐 Language / Langue  
 - English  
 - Français  
 
