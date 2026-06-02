@@ -12,6 +12,12 @@
 
 ![Sales Dashboard](images/Customer_2022_Filter.png)
 
+## 🗂️ Data Model Preview
+
+<p align="center">
+  <img src="images/Sales_Customers_Data_Model.png" alt="Sales Data Model" />
+</p>
+
 ## 🌐 Language / Langue  
 - English  
 - Français  
